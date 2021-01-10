@@ -4,5 +4,5 @@ $('a').click(function() {
   
     return false; 
  
-}); //koniec funkcji click 
+}); 
   
