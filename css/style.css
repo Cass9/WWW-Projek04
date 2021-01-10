@@ -95,6 +95,18 @@ a {
     margin-bottom: 20px;
     font-weight: bold;
     color: white;
-    text-transform: uppercase;
     text-shadow: 1px 1px 10px #000;
+}
+.content h1, h2 {
+    text-transform: uppercase;
+}
+.content h4 {
+    color: #ff6384;
+    margin-bottom: 20px;
+    font-size: 1.2rem;
+}
+p {
+    color: rgb(255, 255, 255);
+    text-shadow: 1px 1px 10px #000;
+    margin: 20px;
 }
